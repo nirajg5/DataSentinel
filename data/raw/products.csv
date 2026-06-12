@@ -1,0 +1,501 @@
+product_id,product_name,price
+101,Microphone,1060
+102,Laptop,2667
+103,Laptop,2537
+104,Webcam,1170
+105,Router,358
+106,Mouse,2732
+107,Router,1151
+108,Tablet,1292
+109,Printer,2820
+110,Monitor,785
+111,Microphone,545
+112,Camera,2443
+113,Speaker,896
+114,Microphone,2496
+115,Hard Disk,774
+116,Speaker,2147
+117,Webcam,882
+118,Microphone,2766
+119,Speaker,1841
+120,Tablet,2529
+121,Camera,1313
+122,Monitor,1037
+123,Router,390
+124,Smart Watch,923
+125,Printer,1581
+126,Smart Watch,2523
+127,Smart Watch,1352
+128,Smart Watch,1862
+129,Camera,2756
+130,Mouse,2548
+131,Smart Watch,2644
+132,Webcam,1420
+133,Keyboard,1188
+134,Printer,1762
+135,Laptop,1859
+136,Printer,1070
+137,Hard Disk,458
+138,Laptop,2946
+139,Speaker,292
+140,Keyboard,422
+141,Router,161
+142,Speaker,855
+143,Headphones,2550
+144,Webcam,2347
+145,Headphones,1953
+146,Tablet,93
+147,Hard Disk,822
+148,Keyboard,479
+149,Laptop,840
+150,Speaker,333
+151,Camera,2017
+152,Tablet,2097
+153,Headphones,1767
+154,Monitor,313
+155,Hard Disk,841
+156,Mouse,2933
+157,Monitor,2558
+158,Smart Watch,2762
+159,Keyboard,624
+160,Laptop,914
+161,Speaker,1953
+162,Monitor,1308
+163,Webcam,2931
+164,Keyboard,2239
+165,Hard Disk,1720
+166,Keyboard,2362
+167,Monitor,2095
+168,Mouse,1896
+169,Webcam,2356
+170,Microphone,1710
+171,Router,2931
+172,Laptop,199
+173,Printer,1092
+174,Keyboard,1781
+175,Printer,1897
+176,Monitor,794
+177,Hard Disk,2551
+178,Keyboard,2931
+179,Tablet,1428
+180,Printer,2320
+181,Microphone,1356
+182,SSD,612
+183,Webcam,2084
+184,Headphones,1073
+185,Laptop,877
+186,Camera,793
+187,Microphone,830
+188,Microphone,2140
+189,Monitor,2214
+190,Laptop,2858
+191,Webcam,1811
+192,Printer,345
+193,SSD,2717
+194,Speaker,1379
+195,Microphone,2356
+196,Router,2272
+197,Webcam,2906
+198,Speaker,2839
+199,Headphones,2538
+200,SSD,2954
+201,Laptop,570
+202,Speaker,1693
+203,Laptop,1503
+204,Smart Watch,764
+205,Microphone,96
+206,Microphone,1226
+207,Mouse,2983
+208,Printer,1599
+209,Speaker,2363
+210,Tablet,2026
+211,Mouse,2922
+212,Microphone,1504
+213,Tablet,1428
+214,Microphone,1428
+215,Hard Disk,1958
+216,Mouse,1939
+217,Microphone,2370
+218,Tablet,587
+219,Camera,235
+220,Mouse,1595
+221,Speaker,106
+222,Tablet,1144
+223,Laptop,1517
+224,Tablet,97
+225,Speaker,312
+226,Keyboard,1600
+227,Keyboard,1803
+228,Laptop,1973
+229,Hard Disk,2063
+230,Laptop,1107
+231,Monitor,2885
+232,Laptop,2756
+233,Monitor,1217
+234,Hard Disk,1102
+235,Headphones,1340
+236,Tablet,392
+237,Monitor,1768
+238,Webcam,625
+239,Printer,2522
+240,Smart Watch,2343
+241,Camera,2291
+242,Webcam,1900
+243,Mouse,796
+244,Speaker,123
+245,Headphones,391
+246,Mouse,168
+247,Printer,2697
+248,Keyboard,2626
+249,Microphone,268
+250,Smart Watch,969
+251,Router,2385
+252,Camera,2462
+253,Router,2228
+254,Webcam,723
+255,Monitor,2599
+256,Headphones,1340
+257,SSD,2565
+258,Monitor,2065
+259,Mouse,839
+260,Speaker,947
+261,Keyboard,1477
+262,Webcam,92
+263,Mouse,2437
+264,Microphone,1017
+265,Camera,2014
+266,Headphones,64
+267,Hard Disk,1840
+268,Mouse,1786
+269,Printer,2338
+270,Monitor,1383
+271,Smart Watch,2312
+272,Microphone,1200
+273,Webcam,2228
+274,Speaker,2047
+275,Monitor,1523
+276,Tablet,1032
+277,Speaker,63
+278,Speaker,431
+279,Speaker,1213
+280,SSD,2611
+281,Webcam,1069
+282,Mouse,725
+283,Camera,919
+284,Camera,2453
+285,Webcam,90
+286,Hard Disk,579
+287,Headphones,1660
+288,Monitor,1173
+289,Tablet,1728
+290,Camera,103
+291,Laptop,2466
+292,Tablet,2627
+293,Laptop,865
+294,SSD,2773
+295,Mouse,1256
+296,Webcam,73
+297,SSD,1400
+298,Hard Disk,1161
+299,Webcam,1279
+300,Hard Disk,838
+301,Speaker,1404
+302,SSD,46
+303,Monitor,782
+304,Printer,1052
+305,Tablet,868
+306,Hard Disk,1690
+307,Webcam,678
+308,Microphone,690
+309,Monitor,2293
+310,Headphones,2314
+311,Headphones,744
+312,Mouse,1984
+313,Camera,1783
+314,Camera,267
+315,Speaker,2293
+316,Laptop,861
+317,Smart Watch,1991
+318,Keyboard,1231
+319,Headphones,1979
+320,Headphones,2895
+321,Tablet,1796
+322,SSD,1177
+323,Camera,1438
+324,Tablet,1977
+325,Router,344
+326,Hard Disk,2229
+327,Monitor,289
+328,Headphones,2304
+329,Mouse,316
+330,Microphone,2575
+331,Keyboard,2954
+332,SSD,1976
+333,Headphones,1229
+334,Headphones,1402
+335,Monitor,1187
+336,Smart Watch,956
+337,Speaker,905
+338,Tablet,2180
+339,Webcam,2263
+340,Router,645
+341,Microphone,2231
+342,Microphone,2832
+343,Keyboard,2926
+344,Monitor,195
+345,Router,2963
+346,Smart Watch,643
+347,Speaker,404
+348,Monitor,876
+349,Speaker,1855
+350,SSD,1784
+351,Hard Disk,2877
+352,Printer,882
+353,Speaker,2973
+354,Speaker,1900
+355,Microphone,1882
+356,Monitor,2332
+357,Router,2841
+358,SSD,2201
+359,Camera,2929
+360,Webcam,2405
+361,Keyboard,1586
+362,Keyboard,2027
+363,Webcam,382
+364,Mouse,1014
+365,Headphones,230
+366,Printer,2515
+367,Smart Watch,2822
+368,Tablet,382
+369,Monitor,624
+370,Webcam,2150
+371,Router,1409
+372,Mouse,555
+373,Router,1548
+374,Webcam,2671
+375,Keyboard,2088
+376,Mouse,2297
+377,Keyboard,2927
+378,Printer,2102
+379,Headphones,2258
+380,Camera,356
+381,Headphones,1760
+382,Headphones,2646
+383,Microphone,805
+384,Laptop,1328
+385,Speaker,2831
+386,Speaker,1221
+387,Tablet,1444
+388,Router,2051
+389,Speaker,2590
+390,Router,2357
+391,SSD,1800
+392,Smart Watch,2425
+393,Laptop,182
+394,Speaker,2804
+395,SSD,1325
+396,Laptop,1548
+397,Hard Disk,2781
+398,Mouse,2611
+399,Router,602
+400,Headphones,1553
+401,SSD,1461
+402,Laptop,1926
+403,Laptop,2619
+404,Camera,2314
+405,Router,1149
+406,SSD,864
+407,Laptop,2897
+408,Laptop,780
+409,Headphones,969
+410,Router,595
+411,Monitor,1465
+412,SSD,2251
+413,Microphone,1193
+414,Laptop,670
+415,Monitor,429
+416,Speaker,1843
+417,SSD,2481
+418,Tablet,512
+419,Smart Watch,2151
+420,Camera,932
+421,Speaker,944
+422,Speaker,1503
+423,Smart Watch,221
+424,Router,2228
+425,Webcam,555
+426,Laptop,24
+427,Monitor,38
+428,SSD,144
+429,Microphone,2959
+430,Monitor,2258
+431,Laptop,1989
+432,Speaker,2911
+433,Printer,2679
+434,Hard Disk,985
+435,Monitor,2298
+436,Camera,2959
+437,Microphone,2275
+438,Hard Disk,1848
+439,Headphones,597
+440,Keyboard,2879
+441,Mouse,1662
+442,Camera,792
+443,Keyboard,1817
+444,Hard Disk,2889
+445,Printer,913
+446,Router,2783
+447,Smart Watch,2010
+448,Speaker,2954
+449,Monitor,2854
+450,Laptop,1790
+451,SSD,779
+452,Headphones,2187
+453,Speaker,2557
+454,Router,549
+455,Monitor,1335
+456,Camera,2088
+457,Printer,236
+458,Smart Watch,1971
+459,Monitor,2166
+460,Laptop,2556
+461,Router,1597
+462,Speaker,727
+463,Hard Disk,1557
+464,Tablet,1096
+465,Router,158
+466,SSD,476
+467,Mouse,2598
+468,SSD,2325
+469,Smart Watch,2375
+470,Router,2878
+471,Webcam,2054
+472,Printer,2719
+473,Smart Watch,2005
+474,Headphones,2306
+475,Tablet,753
+476,Router,2035
+477,Mouse,2412
+478,Smart Watch,1751
+479,Router,1079
+480,SSD,1653
+481,SSD,2734
+482,Camera,755
+483,Microphone,74
+484,Printer,2241
+485,Monitor,1032
+486,Camera,1228
+487,Printer,2596
+488,Laptop,597
+489,Router,1055
+490,SSD,2984
+491,Tablet,1669
+492,Printer,97
+493,Tablet,2416
+494,Camera,1906
+495,Webcam,1286
+496,Headphones,1074
+497,Monitor,2696
+498,Microphone,2216
+499,Hard Disk,2691
+500,Microphone,251
+501,Monitor,1060
+502,Speaker,2975
+503,Hard Disk,1540
+504,Microphone,2605
+505,Speaker,86
+506,Speaker,658
+507,Hard Disk,659
+508,Headphones,2338
+509,Webcam,847
+510,Router,1160
+511,Headphones,2113
+512,Tablet,2982
+513,Monitor,2448
+514,Tablet,1938
+515,Laptop,2210
+516,Keyboard,2896
+517,Microphone,2328
+518,SSD,385
+519,Monitor,52
+520,SSD,2455
+521,Microphone,1440
+522,Laptop,2695
+523,Webcam,944
+524,Mouse,1175
+525,Microphone,1276
+526,Mouse,415
+527,Smart Watch,103
+528,Router,1275
+529,Printer,243
+530,Keyboard,2235
+531,Printer,2105
+532,Webcam,1431
+533,Webcam,2638
+534,Mouse,1643
+535,Printer,2470
+536,Smart Watch,2871
+537,Monitor,2419
+538,Headphones,698
+539,Camera,2385
+540,Smart Watch,2301
+541,Webcam,2654
+542,Webcam,1312
+543,Router,933
+544,Mouse,1040
+545,Mouse,454
+546,SSD,2688
+547,Hard Disk,256
+548,Tablet,978
+549,Keyboard,38
+550,Camera,1100
+551,Router,684
+552,Webcam,1890
+553,Microphone,955
+554,Router,2062
+555,Printer,207
+556,Router,1606
+557,Tablet,955
+558,Headphones,2658
+559,Speaker,2234
+560,Printer,557
+561,Monitor,719
+562,Webcam,1647
+563,Webcam,1491
+564,Monitor,2200
+565,Router,1127
+566,Webcam,2247
+567,Hard Disk,889
+568,Printer,1062
+569,Hard Disk,1277
+570,Headphones,2200
+571,Webcam,504
+572,SSD,2878
+573,Webcam,1448
+574,SSD,2144
+575,Laptop,1323
+576,Speaker,123
+577,Laptop,2400
+578,Printer,496
+579,Laptop,1989
+580,Microphone,401
+581,Smart Watch,2785
+582,Laptop,2736
+583,Headphones,2823
+584,Printer,1244
+585,Camera,360
+586,Speaker,576
+587,Webcam,2389
+588,Headphones,2649
+589,Webcam,2853
+590,Monitor,1980
+591,Webcam,2233
+592,Mouse,2419
+593,Tablet,570
+594,Camera,1205
+595,Router,533
+596,Hard Disk,2439
+597,Hard Disk,1557
+598,Tablet,460
+599,Speaker,2524
+600,Camera,1255

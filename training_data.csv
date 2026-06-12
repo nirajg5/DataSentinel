@@ -1,0 +1,5 @@
+dataset_name,reliability_score,freshness_score,incident_count,sla_breach_count,failure_label
+silver_customers,100.0,100.0,2,0,0
+silver_products,100.0,100.0,2,0,0
+silver_orders,98.5,100.0,7,1,1
+gold_sales_summary,100.0,100.0,1,0,0

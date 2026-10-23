@@ -1,0 +1,58 @@
+[
+  {
+    "method": "GET",
+    "path": "/openapi.json",
+    "name": "openapi",
+    "endpoint": "fastapi.applications.openapi",
+    "tags": null
+  },
+  {
+    "method": "GET",
+    "path": "/docs",
+    "name": "swagger_ui_html",
+    "endpoint": "fastapi.applications.swagger_ui_html",
+    "tags": null
+  },
+  {
+    "method": "GET",
+    "path": "/docs/oauth2-redirect",
+    "name": "swagger_ui_redirect",
+    "endpoint": "fastapi.applications.swagger_ui_redirect",
+    "tags": null
+  },
+  {
+    "method": "GET",
+    "path": "/redoc",
+    "name": "redoc_html",
+    "endpoint": "fastapi.applications.redoc_html",
+    "tags": null
+  },
+  {
+    "method": "GET",
+    "path": "/metrics",
+    "name": "prometheus_response",
+    "endpoint": "backend.monitoring.prometheus_metrics.prometheus_response",
+    "tags": []
+  },
+  {
+    "method": "GET",
+    "path": "/",
+    "name": "home",
+    "endpoint": "backend.main.home",
+    "tags": []
+  },
+  {
+    "method": "GET",
+    "path": "/health",
+    "name": "health",
+    "endpoint": "backend.main.health",
+    "tags": []
+  },
+  {
+    "method": "GET",
+    "path": "/health/database",
+    "name": "database_health",
+    "endpoint": "backend.main.database_health",
+    "tags": []
+  }
+]

@@ -1,0 +1,21 @@
+product_id,product_name,category,price,stock_quantity
+101,Laptop,Electronics,55000.00,25
+102,Mouse,Accessories,750.00,100
+103,Keyboard,Accessories,1500.00,60
+104,Monitor,Electronics,12000.00,30
+105,Desk,Furniture,8000.00,15
+106,Office Chair,Furniture,6500.00,20
+107,Headphones,Accessories,2200.00,45
+108,Webcam,Electronics,3500.00,35
+109,USB Hub,Accessories,1100.00,70
+110,Printer,Electronics,14500.00,12
+111,Notebook,Stationery,120.00,200
+112,Pen Set,Stationery,250.00,150
+113,Bookshelf,Furniture,7200.00,10
+114,Tablet,Electronics,28000.00,18
+115,Laptop Stand,Accessories,1800.00,40
+116,Desk Lamp,Furniture,950.00,55
+117,External SSD,Electronics,6200.00,28
+118,Cable Organizer,Accessories,300.00,90
+119,Whiteboard,Stationery,2400.00,16
+120,Filing Cabinet,Furniture,9200.00,8

@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+alembic.ini
+*.log
+data/**/*.parquet
+data/chroma_db/
+
+data/chroma_db/

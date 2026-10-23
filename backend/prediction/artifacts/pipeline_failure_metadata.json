@@ -1,0 +1,31 @@
+{
+  "model_type": "RandomForestClassifier",
+  "dataset_type": "synthetic",
+  "target": "will_fail",
+  "features": [
+    "pipeline_name",
+    "dataset_name",
+    "hour_of_day",
+    "day_of_week",
+    "expected_rows",
+    "source_freshness_lag_minutes",
+    "upstream_failures_24h",
+    "failures_last_10_runs",
+    "success_streak_before_run",
+    "schema_change_detected",
+    "null_rate_last_run",
+    "duplicate_rate_last_run",
+    "volume_change_pct_vs_7d_avg",
+    "cpu_utilization_pct",
+    "memory_utilization_pct",
+    "concurrent_pipelines",
+    "is_weekend"
+  ],
+  "decision_threshold": 0.3500000000000001,
+  "random_state": 42,
+  "training_rows": 5612,
+  "validation_rows": 1203,
+  "test_rows": 1203,
+  "test_roc_auc": 0.6093786737492923,
+  "test_average_precision": 0.3041052983142799
+}

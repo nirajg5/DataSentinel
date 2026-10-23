@@ -1,0 +1,74 @@
+{
+  "retrieval": {
+    "test_cases": 3,
+    "source_hit_rate_at_5": 1.0,
+    "mean_reciprocal_rank": 1.0,
+    "results": [
+      {
+        "question": "How do I investigate a failed CSV ingestion pipeline?",
+        "expected_sources": [
+          "ingestion_runbook.md"
+        ],
+        "retrieved_sources": [
+          "ingestion_runbook.md"
+        ],
+        "hit_at_5": true,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "question": "How can I verify that a CSV file has the expected columns?",
+        "expected_sources": [
+          "ingestion_runbook.md"
+        ],
+        "retrieved_sources": [
+          "ingestion_runbook.md"
+        ],
+        "hit_at_5": true,
+        "reciprocal_rank": 1.0
+      },
+      {
+        "question": "What should I verify after retrying a failed pipeline?",
+        "expected_sources": [
+          "ingestion_runbook.md"
+        ],
+        "retrieved_sources": [
+          "ingestion_runbook.md"
+        ],
+        "hit_at_5": true,
+        "reciprocal_rank": 1.0
+      }
+    ]
+  },
+  "answers": {
+    "test_cases": 3,
+    "successful_answers": 3,
+    "success_rate": 1.0,
+    "average_latency_seconds": 6.397,
+    "results": [
+      {
+        "question": "How do I investigate a failed CSV ingestion pipeline?",
+        "success": true,
+        "latency_seconds": 6.448,
+        "citation_count": 1,
+        "citation_sources_valid": true,
+        "answer": "To investigate a CSV ingestion pipeline that reports a FAILED status, follow these steps:\n1. Look at the pipeline run error message to get clues about the failure.\n2. Verify that the source CSV file is present where the pipeline expects it.\n3. Check that the CSV contains all required columns.\n4. Scan the file for missing values in any required fields.\n5. Ensure the database connection is working and that the pipeline has the necessary permissions.\nAfter identifying and fixing the issue (e.g., correcting the file or configuration), retry the pipeline and confirm it completes successfully with the expected row count.\n"
+      },
+      {
+        "question": "How can I verify that a CSV file has the expected columns?",
+        "success": true,
+        "latency_seconds": 6.578,
+        "citation_count": 1,
+        "citation_sources_valid": true,
+        "answer": "To verify that a CSV file has the expected columns, follow the investigation step that says to \"Verify that the file contains the expected columns\"\u2014i.e., open the CSV (or inspect its header row) and compare the column names against the list of columns your pipeline expects before proceeding."
+      },
+      {
+        "question": "What should I verify after retrying a failed pipeline?",
+        "success": true,
+        "latency_seconds": 6.166,
+        "citation_count": 1,
+        "citation_sources_valid": true,
+        "answer": "After retrying the failed pipeline, verify that the pipeline completes successfully and that the number of rows ingested matches the expected row count from the source CSV file."
+      }
+    ]
+  }
+}

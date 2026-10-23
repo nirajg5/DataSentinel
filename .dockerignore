@@ -1,0 +1,11 @@
+﻿.venv
+venv
+.git
+.pytest_cache
+__pycache__
+*.py[cod]
+.env
+.env.*
+!.env.example
+recovery_backup
+data/chroma_db

@@ -1,0 +1,6 @@
+{
+  "name": "DataSentinel",
+  "description": "Enterprise data reliability, pipeline observability, and automated incident investigation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
